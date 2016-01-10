@@ -7,7 +7,7 @@ Conflicts:     harbour-iconpacksupport
 Group:         System/Tools
 Vendor:        fravaccaro
 Distribution:  SailfishOS
-Requires: harbour-themepacksupport >= 0.0.5-4
+Requires: harbour-themepacksupport >= 0.0.7-2
 Packager: fravaccaro <fravaccaro@jollacommunity.it>
 URL:           www.jollacommunity.it
 License:       GPL
